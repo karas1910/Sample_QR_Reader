@@ -1,1 +1,1 @@
-#Zxing Sample
+# Zxing Sample
